@@ -1,0 +1,4 @@
+one|1 one
+twenty|20 twenty
+two|2 two
+seven|7 seven

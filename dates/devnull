@@ -1,0 +1,4 @@
+Failed conversion of ``Wed 12 Feb 2014'' using format ``%Y%m%d''
+date: illegal time format
+usage: date [-jnu] [-d dst] [-r seconds] [-t west] [-v[+|-]val[ymwdHMS]] ... 
+            [-f fmt date | [[[mm]dd]HH]MM[[cc]yy][.ss]] [+format]

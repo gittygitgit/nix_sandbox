@@ -1,0 +1,27 @@
+total 1104
+-rw-r--r--   1 grudkowm  staff     777 Aug 28 20:32 summary.awk
+-rw-r--r--   1 grudkowm  staff  446488 Aug 28 20:32 server.log
+-rw-r--r--   1 grudkowm  staff   30566 Aug 28 20:32 foo.out
+-rw-r--r--   1 grudkowm  staff      39 Aug 28 20:32 file2.txt
+-rw-r--r--   1 grudkowm  staff     756 Aug 28 20:32 f1.txt
+-rw-r--r--   1 grudkowm  staff      91 Aug 28 20:32 example6.sh
+-rw-r--r--   1 grudkowm  staff      75 Aug 28 20:32 example5.sh
+-rw-r--r--   1 grudkowm  staff      49 Aug 28 20:32 example4.sh
+-rw-r--r--   1 grudkowm  staff     127 Aug 28 20:32 example3.sh
+-rw-r--r--   1 grudkowm  staff     201 Aug 28 20:32 example2.sh
+-rw-r--r--   1 grudkowm  staff      46 Aug 28 20:32 example1.sh
+drwxr-xr-x   6 grudkowm  staff     204 Aug 28 20:32 awk_functions
+-rw-r--r--   1 grudkowm  staff     113 Aug 28 20:32 awk7.sh
+-rw-r--r--   1 grudkowm  staff      12 Aug 28 20:32 awk6.sh
+-rw-r--r--   1 grudkowm  staff     537 Aug 28 20:32 awk5.sh
+-rw-r--r--   1 grudkowm  staff     627 Aug 28 20:32 awk4.sh
+-rw-r--r--   1 grudkowm  staff     942 Aug 28 20:32 awk3.sh
+-rw-r--r--   1 grudkowm  staff      91 Aug 28 20:32 awk2.sh
+-rw-r--r--   1 grudkowm  staff    1374 Aug 28 20:32 awk1.sh
+-rw-r--r--   1 grudkowm  staff      22 Aug 28 20:32 F2
+-rw-r--r--   1 grudkowm  staff      17 Aug 28 20:32 F1
+-rw-r--r--   1 grudkowm  staff    1005 Aug 28 20:32 1
+-rwxr-xr-x   1 grudkowm  staff     114 Aug 28 21:21 awk.sh
+drwxr-xr-x  51 grudkowm  staff    1734 Aug 29 21:07 ..
+-rw-r--r--   1 grudkowm  staff       0 Dec 22 15:31 ls.out
+drwxr-xr-x  26 grudkowm  staff     884 Dec 22 15:31 .

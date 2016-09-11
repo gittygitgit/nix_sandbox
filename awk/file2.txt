@@ -1,0 +1,7 @@
+START
+Unix
+Linux
+START
+Solaris
+Aix
+SCO

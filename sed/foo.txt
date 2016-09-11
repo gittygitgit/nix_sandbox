@@ -1,0 +1,9 @@
+delete from $i
+delete from $i
+delete from $i
+delete from ${i}
+delete from ${i}
+delete from ${i}
+delete from EO_TRADE_ACTION
+delete from EO_TRADE
+delete from EO_REPORT_TRADE

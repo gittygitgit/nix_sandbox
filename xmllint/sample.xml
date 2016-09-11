@@ -1,0 +1,5 @@
+<FIXML>
+<Batch>
+<TrdCaptRpt RptID="1377637552" PrevlyRpted="N" LastQty="1" LastPx="0.7" TrdDt="2015-12-14" TransTyp="0" RptTyp="2" TrdTyp="0" MtchID="0049991" BizDt="2015-12-14" MtchStat="0"><Instrmt Sym="QLYS" CFI="OPASPS" MMY="20151218" MatDt="2015-12-18" StrkPx="35" StrkCcy="USD" StrkMult="1" StrkValu="100" Mult="100" Exch="XASE"/><Amt Typ="PREM" Amt="70"/><RptSide Side="2" InptDev="MQ" Ccy="USD" PosEfct="O" Txt="20151214-CAO8703" ClOrdID="20151214-CAO8703" MLegRptTyp="1" TrdID="A03403"><Pty ID="OCC" R="21" /><Pty ID="00411" R="1" > <Sub ID="C" Typ="26"/></Pty><Pty ID="14180032" R="24"/><TrdRegTS TS="2015-12-14T15:39:41.000" Typ="1"/></RptSide><RptSide Side="1" InptDev="MQ" Ccy="USD" PosEfct="O" Txt="REDI" ClOrdID="20151214113417-0" MLegRptTyp="1" TrdID="A03403"><Pty ID="OCC" R="21" /><Pty ID="00501" R="18" > <Sub ID="M" Typ="26"/></Pty><Pty ID="LIN" R="38"/><TrdRegTS TS="2015-12-14T15:39:41.000" Typ="1"/></RptSide></TrdCaptRpt>
+</Batch>
+</FIXML>

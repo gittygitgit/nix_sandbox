@@ -1,0 +1,52 @@
+#!/bin/sh
+:<<notes
+for a given range of dates
+  stage tuples of current / next bus day
+ 
+  if the current date is a business day
+    if there's a current bus date already staged
+      assign date to next bus date
+      print tuple
+      remove current date
+      make next bus date current date.
+    else
+      assign date to current date
+  else
+    skip    
+
+tradeDateMap.put("20141230", "20141231");
+notes
+
+# default start date is today
+STARTDATE=$(date)
+
+arg0=$(basename $0 .sh)
+
+usage()
+{
+  echo "Usage: $arg0 [--startdate date] --enddate date" 1>&s
+  exit 1
+}
+
+error()
+{
+  echo "$0: $*" 1>&2
+  exit 1
+}
+
+
+args=`getopt --long startdate:,enddate: $*`
+
+echo $?
+
+if [ $? != 0 ]
+then
+  echo 'Usage: ...'
+  exit 2
+fi
+
+set -- $args
+echo $args
+echo $startdate
+
+
